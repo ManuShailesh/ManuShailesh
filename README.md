@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to My Profile!
+
+- 🌱 I'm learning Web Development
+- Check out my website: [ManuShailesh.github.io](https://ManuShailesh.github.io)
 
 <!--
 **ManuShailesh/ManuShailesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
